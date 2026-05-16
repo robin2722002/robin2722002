@@ -5,7 +5,7 @@
 <h3 align="center">💻 Python Developer | Django Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Full+Stack+Developer;Django+Developer;REST+API+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Django+Developer;REST+API+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies&center=true&width=600&height=45">
 </p>
 
 ---
