@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-```md id="n7s2ra"
 <h1 align="center">Hi 👋, I'm ROBIN JOSEPH</h1>
 
 <h3 align="center">💻 Python Developer | Django Developer</h3>
